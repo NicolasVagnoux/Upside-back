@@ -43,9 +43,11 @@ const getAllUsers = (async (
 const updateUser = ( async (req: Request, res: Response, next: NextFunction) => {
     try {
       const { idUser } = req.params;
+      const currentUser = await User.getUserById(Number(idUser));
       const userUpdated = await User.updateUser(
         Number(idUser),
-        req.body as IUser
+        req.body as IUser,
+        currentUser 
       );
       if (userUpdated) {
         const user = await User.getUserById(Number(idUser));
