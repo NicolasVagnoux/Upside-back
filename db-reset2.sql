@@ -62,7 +62,7 @@ VALUES
         'lydie.pluvinage@wildcodeschool.com',
         "testmdp",
         true,
-        avatar
+        "avatar"
     );
 
 INSERT INTO
@@ -92,7 +92,7 @@ VALUES
         'agricole',
         "blue",
         'Jacques Dutronc'
-    );
+    ),
 (
         'Ecp-ariane',
         'https://media.glassdoor.com/sqll/1777340/arianegroup-squarelogo-1524488326917.png',
@@ -105,7 +105,7 @@ VALUES
         'Aero-spacial',
         "blue",
         'André-Hubert Roussel '
-    );
+    ),
 (
         'Evolution 3 ',
         'https://www.saftbatteries.com/sites/all/themes/custom/saft_batteries/library/images/logos/saft-logo2.png',
@@ -118,7 +118,7 @@ VALUES
         'retail',
         "blue",
         'Ghislain Lescuyer'
-    );
+    ),
 (
         'HoloLens',
         'https://img2.freepng.fr/20180501/dee/kisspng-virtual-reality-headset-microsoft-hololens-samsung-5ae825690637d1.0972398215251633690255.jpg',
@@ -131,7 +131,7 @@ VALUES
         'retail',
         "blue",
         'Alex Kipman'
-    );
+    ),
 (
         'StarTour',
         'https://ibb.co/QmQQ4sd',
@@ -144,7 +144,7 @@ VALUES
         'retail',
         "blue",
         'Nicolas Vagnoux'
-    );
+    ),
     (
         'Supervision',
         'https://www.passmalin.fr/fileadmin/_processed_/a/0/csm_LOGO_SNCF_GROUPE_RVB_708b29e436.png',
@@ -159,7 +159,7 @@ Cette évolution du mode de delivery a impliqué un renfort de nos effectifs, le
         'transport',
         'blue',
         'Monica Sanchez'
-    );
+    ),
     (
         'UX DESIGNER',
         'https://www.1min30.com/wp-content/uploads/2017/08/Logo-EDF-1.jpg',
@@ -174,7 +174,7 @@ Le besoin de notre client, évoluant dans un contexte projet agile, est d’int�
         'service public',
         'blue',
         'Jean-Bernard Lévy'
-    );
+    ),
     (
         'Conseil en organisation',
         'https://previews.123rf.com/images/butenkow/butenkow1506/butenkow150600042/40902334-assurance-logo-de-qualit%C3%A9-de-vecteur-ronde.jpg',
