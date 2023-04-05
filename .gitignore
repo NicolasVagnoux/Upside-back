@@ -4,3 +4,4 @@ package-lock.json
 .DS_Store
 **/*.js
 db-reset2.sql
+db-reset.sql
